@@ -1,0 +1,36 @@
+1. I/O Interface
+Bridge between CPU and peripherals.
+
+Handles communication and command/data transfer.
+
+2. PCI Bus (Peripheral Component Interconnect)
+High-speed parallel bus for internal components.
+
+Supports plug-and-play and multiple devices.
+
+3. SCSI Bus (Small Computer System Interface)
+Parallel interface used for connecting multiple peripherals.
+
+Daisy-chaining support with high transfer speeds.
+
+4. USB (Universal Serial Bus)
+Standard for serial communication with external devices.
+
+Plug-and-play, hot-swappable, universal support.
+
+5. Data Transfer Modes
+Serial: 1 bit at a time, long-distance.
+
+Parallel: Multiple bits, short-distance, faster.
+
+Synchronous: Clock-based coordination.
+
+Asynchronous: Start/stop bits, no clock dependency.
+
+6. Direct Memory Access (DMA)
+Transfers data directly between memory and I/O.
+
+Frees CPU, fast and efficient.
+
+
+

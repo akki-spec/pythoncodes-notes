@@ -1,0 +1,30 @@
+what are errors ?
+
+a- compile time errors(execute hone ke pehle hone vali glti)
+b- runtime error(execution ke time hone vali glti)
+c- logical errors(output glt ai because of logical mistake)
+
+if this errors comes in software it is called bugs 
+removing and fixing of these errors - debuging
+
+exception ->
+1- start running(runtime pe hota hai)
+2- warning sign(ye ek tarike ki warning hoti hai ki error a raha hai)
+3- catch and handle(ye kar skte ho is se and is se program crash nhi hoga )
+
+
+exception handling?
+1- zerodivision(2%0)
+
+100 line code
+10 - 20 line < error (a skta hai)
+toh itna part handle karenge
+
+---------------------
+try-except
+try- code error 
+except - 
+
+finally block
+
+
